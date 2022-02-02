@@ -23,4 +23,5 @@ More information on Mandy and her history can be found by exploring the navigati
 
 The NCSU Masters in GIS Technology [Final Portfolio](https://sites.google.com/ncsu.edu/mandysportfolio/home) details the four geospatial tenants. More information is listed there. 
 
-
+## Follow Me: 
+![](logos/octocat.jpg) [Github](https://github.com/agrichick45) ![](logos/linkedin.png) [LinkedIn](https://www.linkedin.com/in/mandy-liesch-a38a5147/)
