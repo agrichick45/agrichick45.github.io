@@ -13,7 +13,7 @@ There are many other facets to this project that will follow with phase 1 comple
 Including:  
 - Choosing which regions have the most dynamic carbon pools  
 - Improving the vegetation parameters from satellite images in these regions  
-- Plugging these improved models into soil carbon equations (Century, Millenial, etc.) to map actual greenhouse emissions  
+- Plugging these improved models into soil carbon equations ([Century](https://www.nrel.colostate.edu/projects/century/index.php), [Millenial](https://research.al.umces.edu/davidson/2018/01/19/the-millennial-model/), etc.) to map actual greenhouse emissions  
 
 
 ## Rural Risk and Environmental Justice in the Mississippi River Basin
