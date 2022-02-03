@@ -3,7 +3,7 @@
 This is a brief description of the major current projects: 
 
 ## EPA ORISE Fellowship: Soil Carbon Data
-The project entails research related to greenhouse gas emissions from crops grown for biofuel production, specifically focusing on soil carbon. This project involves analyzing existing soil carbon stock datasets and researching the state of knowledge related to soil carbon stocks and emissions. This position is in the Office of Transportation and Air Quality (OTAQ)  under the mentorship of Dr. Lauren Rafelski. 
+The project entails research related to greenhouse gas emissions from crop production, specifically focusing on soil carbon. This project involves analyzing existing soil carbon stock datasets and researching the state of knowledge related to soil carbon stocks and emissions. This position is in the Office of Transportation and Air Quality (OTAQ)  under the mentorship of Dr. Lauren Rafelski. 
 
 ![](images/soilCarbon.jpg)
 
