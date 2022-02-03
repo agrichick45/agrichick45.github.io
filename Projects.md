@@ -33,7 +33,7 @@ Frustration, and Passionate Hatred. (Content warning, contains conversations abo
 
 
 ## Optimizing Nitrogen Reduction with Wetland Restoration
-![](images/Flooded_cropland_in_southwest_Iowa)
+![](images/Flooded_cropland.jpg)
 
 The United States Corn belt Nitrogen from the Upper Mississippi River Basin provide nearly 40% of the nitrogen pollution to the Gulf of Mexico, with Iowa being the first or second biggest contributor the toxic dead zone in the Gulf of Mexico. Despite years of work in extension, cropping practice change, and concerted efforts on the parts of farmers and government officials alike, there does not seem to be any overall improvement in overall nitrogen loss. [Results](https://sites.google.com/ncsu.edu/mandysportfolio/home/capstone-experience) are in my MGIST Portfolio.
 
