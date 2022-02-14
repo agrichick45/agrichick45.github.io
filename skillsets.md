@@ -18,3 +18,8 @@ The second portion of the analysis focused on Pokemon Weight and Happiness Over 
 ![](images/pokemonHappiness.png)
 
 Super profound, scientific stuff here! Cutting edge research into Pokemon Sociology (likely Pokemon Colonialism) 
+
+
+### [Analyzing Viral Shares](https://agrichick45.github.io/ST558Project2/)
+
+This project was done with a partner. It looks at features about articles published by Mashable in a period of two years. The goal is to predict the number of shares in social networks (popularity). Here we first showed some summary statistics and plots about the data grouped by weekdays by the five data types. Then we create several models to predict the response, shares in different channels. The performance of these models will be evaluated by RMSE. The model having the lowest RMSE will be selected as a winner for each of the categorical types. This project was heavy with the parallel processing, exploratory variable selection, and integration into several different models: Trees, regression and prediction, boosted models, and random forests. 
