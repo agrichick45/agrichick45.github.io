@@ -17,4 +17,4 @@ The second portion of the analysis focused on Pokemon Weight and Happiness Over 
 
 ![](images/pokemonHappiness.png)
 
-Super profound, scientific stuff here! Cutting edge research into Pokemon Sociology
+Super profound, scientific stuff here! Cutting edge research into Pokemon Sociology (likely Pokemon Colonialism) 
