@@ -15,4 +15,6 @@ This [project](https://agrichick45.github.io/ST558Project1/) taps into every sin
 
 The second portion of the analysis focused on Pokemon Weight and Happiness Over Time. Looking at the overall data of even the happiest type of pokemon, there is a strong decline in happiness, even for the vibrant fairy type pokemon. This shows that even the optimists are struggling now, where they never had before.
 
+![](images/pokemonHappiness.png)
+
 Super profound, scientific stuff here! Cutting edge research into Pokemon Sociology
