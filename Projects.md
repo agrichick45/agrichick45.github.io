@@ -28,7 +28,7 @@ This [ESRI Storymap](https://storymaps.arcgis.com/stories/3ec5284d3d60492e84c60e
 
 Another Risk indicator looked at the [agricultural makeup](https://agrichick45.github.io/RuralRisk/AgDiver.html) and diversity of rural counties, using hierarchical clustering algorithms. This project evolved into a shiny app (under review on publication options) allowing for interactive selection of some key variables behind agricultural intensification, and dynamic visualizations with maps, interactive ggplots, and heatmaps of key variables and drivers for areas experiencing heavy intensification. This project also focused on integrating several dynamic machine learning algorithms
 
-![](images/dynamicmapping.jpg)
+![](images/dynamicMapping.jpg)
 
 A fall project looked at [The Dark Underbelly](https://agrichick45.github.io/RuralRisk/DarkRisk.html) of rural America, focusing on lost idenity, the tenents of the True Believer, and how our economic system created three major catalysts toward fundamentalism: The New Poor,
 Frustration, and Passionate Hatred. (Content warning, contains conversations about assault, deaths of despair)
