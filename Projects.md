@@ -26,7 +26,9 @@ There are many different definitions of risk, just like there are many different
 #### Several projects came from this: 
 This [ESRI Storymap](https://storymaps.arcgis.com/stories/3ec5284d3d60492e84c60e4b407df954) was a collaborative effort with Dana VanHuis (MS Student, University of Michigan) looks at how leeves, flooding, impaired waters, animal density, and farmer debt to asset correlate with the Baseline Resilience Indicators for Communities [(BRIC)](https://experience.arcgis.com/experience/376770c1113943b6b5f6b58ff1c2fb5c/page/page_8/), which uses socio-economic data to figure in disaster resilience.
 
-Another Risk indicator looked at the [agricultural makeup](https://agrichick45.github.io/RuralRisk/AgDiver.html) and diversity of rural counties, using hierarchical clustering algorithms. This project evolved into a [shiny app](github.com/agrichick45/ag_intensity_shiny) allowing for interactive selection of some key variables behind agricultural intensification, and dynamic visualizations in 
+Another Risk indicator looked at the [agricultural makeup](https://agrichick45.github.io/RuralRisk/AgDiver.html) and diversity of rural counties, using hierarchical clustering algorithms. This project evolved into a shiny app (under review on publication options) allowing for interactive selection of some key variables behind agricultural intensification, and dynamic visualizations with maps, interactive ggplots, and heatmaps of key variables and drivers for areas experiencing heavy intensification. This project also focused on integrating several dynamic machine learning algorithms
+
+![](images/dynamicmapping.jpg)
 
 A fall project looked at [The Dark Underbelly](https://agrichick45.github.io/RuralRisk/DarkRisk.html) of rural America, focusing on lost idenity, the tenents of the True Believer, and how our economic system created three major catalysts toward fundamentalism: The New Poor,
 Frustration, and Passionate Hatred. (Content warning, contains conversations about assault, deaths of despair)
