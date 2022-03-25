@@ -6,7 +6,7 @@ This areas is for the projects and visualization tutorials that I wished that I 
 
 Skills: API/server Download, projections, zonal statistics, Bivariate Chloropleth Maps, spatial data frame manipulations, dumbbell plots 
 
-Right now, I am editing, organizing, and processing two major projects based on the markdown files that will be translated into a github page from the [Agricultural Land Repository](https://github.com/agrichick45/AgLandUse)
+Right now, I am editing, organizing, and processing two major projects based on the markdown files that will be translated into a github page from the [Agricultural Land Repository](https://agrichick45.github.io/globalAgLand/)
 
 ## United States Cropland Transitions
 
