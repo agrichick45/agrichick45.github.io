@@ -10,7 +10,7 @@ Mandy is an artist trapped in the body of a scientist. Growing up in rural Wisco
 
 After graduation from her Undergraduate degree, she followed her soils passion to a soil fertility masters degree at Kansas State University. There, she fell in love with statistics and statistical applications. She continued that love at North Carolina State University, taking several geospatial data courses in many different software. In her free time, she reads about data science, machine learning methods, time series analysis, and applications of categorical data over space and time.
 
-In her free time, she loved teaching about soils and food production to young, budding scientists. Because of her many years as a camp counselor and nature director for a few different Girl Scout Councils, Mandy is enthusiastic and adaptable, and has worked around many diverse crowds and audiences. Mandy also breeds and trains working Australian Cattle Dogs.
+Because of her many years as a camp counselor and nature director for a few different Girl Scout Councils, Mandy is enthusiastic and adaptable, and has worked around many diverse crowds and audiences. Mandy also breeds and trains working Australian Cattle Dogs.
 
 ## Career Goals
 Mandy currently spends a lot of her free time learning about statistics, data science, and GIS based technology, especially how this applies to rural development and the agricultural technology.  One day, she hopes to get a PhD, and work in the precision agricultural industry, optimizing economic return for the farmers, while minimizing the environmental footprint associated with feeding us all!
