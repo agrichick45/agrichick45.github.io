@@ -4,7 +4,7 @@ An aspiring big and messy data GIS scientist in the making, with a focus on all 
 
 Major Topics Include:  
 - Big data cleaning and manipulation  
-- Automating API processing  
+- Automating API processing
 - Statistical Interpolation  
 - Time-Series Raster Analysis  
 - Statistical Machine Learning  
