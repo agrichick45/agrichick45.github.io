@@ -3,19 +3,18 @@
 This is a brief description of the major current projects: 
 
 ## EPA ORISE Fellowship: Soil Carbon Data
-The project entails research related to greenhouse gas emissions from crop production, specifically focusing on soil carbon. This project involves analyzing existing soil carbon stock datasets and researching the state of knowledge related to soil carbon stocks and emissions. This position is in the Office of Transportation and Air Quality (OTAQ)  under the mentorship of Dr. Lauren Rafelski. 
+The project entails research related to greenhouse gas emissions from crop production, specifically focusing on soil carbon. This project involves analyzing existing soil carbon stock datasets and researching the state of knowledge related to soil carbon stocks and emissions. This position is in the Office of Transportation and Air Quality (OTAQ)  under the mentorship of Dr. Lauren Rafelski and Chris Ramig in the Climate Economics & Modeling Branch. 
 
 ![](images/soilCarbon.jpg)
 
 I am working on improving to models using spatially explicit data (specifically soil carbon and vegetation). Right now, I am looking at the machine learning algorithms used in the 2020 release of [SoilGrids 2.0](https://soilgrids.org/) with a spatial resolution of 250 m. This involves figuring out, regionally, which covariates create the dominant sources of error (climate, ecosystems, geology, terrain, etc.)
 
-This project involves manipulation and summarization of multiple large, global raster datasets. This is done using the terra package, raster reclassification, masking, clipping to polygons, and zonal statistics extraction, all summarized using dumbbell plots and tables in the Tidyverse in R.
+This project involves manipulation and summarization of multiple large, global raster datasets. This is done using the terra package, raster reclassification, masking, clipping to polygons, and zonal statistics extraction, all summarized using dumbbell plots and tables in the Tidyverse in R (GET MARKDOWN DOCUMENT).
 
 There are many other facets to this project that will follow with phase 1 completion, about Soil Carbon Stocks and Soil Carbon Stock error.  
 Including:  
-- Choosing which regions have the most dynamic carbon pools  
+- Choosing which regions have the most dynamic carbon pools  (FIND AND LINK THE TUTORIAL)
 - Improving the vegetation parameters from satellite images in these regions  
-- Plugging these improved models into soil carbon equations ([Century](https://www.nrel.colostate.edu/projects/century/index.php), [Millenial](https://research.al.umces.edu/davidson/2018/01/19/the-millennial-model/), etc.) to map actual greenhouse emissions  
 
 
 ## Rural Risk and Environmental Justice in the Mississippi River Basin
